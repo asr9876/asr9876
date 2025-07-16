@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Hey there, I'm Ajay Singh Rana</h1>
+<h1 align="center">Hey there👋, I'm Ajay Singh Rana</h1>
 <h3 align="center">A Data Analyst</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asr9876" alt="asr9876" /></a> </p>
