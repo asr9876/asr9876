@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ajay Singh Rana</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asr9876&label=Profile%20views&color=0e75b6&style=flat" alt="asr9876" /> </p>
+<h1 align="center">Hi 👋,Hey there, I'm Ajay Singh Rana</h1>
+<h3 align="center">A Data Analyst</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asr9876" alt="asr9876" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/asr9876?tab=repositories](https://github.com/asr9876?tab=repositories)
+<p align="left"> Welcome to my little corner of Github!</p>
+<p align="left">I'm passionate about growing in my career, picking up new tech skills, and making work life less overwhelming
+ Here, You'll find:</p>
+  <ul style="list-style-type: disc;">
+        <li>⚒Projects I'm building or contributing to</li>
+        <li>📚Things I've learned while juggling work, deadlines and debugging</li>
+        <li>🌱Bits of inspiration for anyone trying to survive -- and thrive -- in the corporate jungle</li>
+    </ul>
+                                                                                                                                                                    
 
 - 💬 Ask me about **Data Science and ML Concepts**
 
